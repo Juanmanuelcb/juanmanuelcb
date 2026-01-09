@@ -1,7 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-Hello! Thanks for stopping by on my profile. I am **Juan Manuel Carpio** a web and software programmer, living in Europe. I am currently living between Milan and Madrid, my last years have been living and working for different companies of various sizes, full time or as a freelance, including working remotely and across different timezones 🌍.
+Thanks for stopping by! I'm Juan Manuel Carpio, a web and software developer living in Madrid. Over the last few years I've been working for different companies of various sizes, full time and as a freelancer, including working remotely and across different timezones 🌍
 
-I am experienced with all stages of the development cycle for dynamic web projects, platforms 🖥️ and mobile apps 📱. Well-versed in numerous programming languages, mostly on Javascript including frameworks like React and Angular, and cloud-based servers such as Google Cloud platform, Firebase and Amazon Web Services.
+I'm experienced with all stages of the development cycle for web projects, platforms 🖥️ and mobile apps 📱. I work mostly with TypeScript, React, React Native, and Node.js, along with cloud infrastructure on AWS and GCP.
 
-I invite you to discover a little more of the most important projects that I have worked at on my [LinkedIn](https://www.linkedin.com/in/juanmanuelcb/) (I am working on a different solution 😏) and if you would like a little more information, do not hesitate to contact me.
+I invite you to discover more of the projects I've worked on through my LinkedIn, and if you'd like more information, feel free to reach out!
+
+## Let's Connect
+
+- 🌐 [juanmanuelcb.com](https://juanmanuelcb.com)
+- 💼 [LinkedIn](https://linkedin.com/in/juanmanuelcb)
+- 📫 hola@juanmanuelcb.com
